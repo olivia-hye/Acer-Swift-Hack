@@ -7,7 +7,7 @@
 Version](https://img.shields.io/badge/OpenCore-0.9.6-cyan?style=default&logo=osano&logoColor=0298e1&color=3f4451
 )](https://github.com/acidanthera/OpenCorePkg/releases/latest)
 [![macOS 
-Sonoma](https://img.shields.io/badge/macOS-14.2.1%20(22G120)-white.svg?logo=apple)](https://www.apple.com/macos/sonoma/)
+Sonoma](https://img.shields.io/badge/macOS-14.2.1%20(23C71)-white.svg?logo=apple)](https://www.apple.com/macos/sonoma/)
 
 
 ![About this Mac](.assets/docs/about_this_mac.png)
