@@ -27,12 +27,13 @@ Sonoma](https://img.shields.io/badge/macOS-14.2.1%20(23C71)-white.svg?logo=apple
 
 | Version 	| Supported 	|
 |---	|---	|
-| <img src="/.assets/docs/logos/high_sierra.png" width="30"/> 10.13.x 	| :heavy_exclamation_mark: No iGPU Support	|
-| <img src="/.assets/docs/logos/mojave.png" width="30"/> 10.14.x 	| :heavy_exclamation_mark: No iGPU Support 	|
-| <img src="/.assets/docs/logos/catalina.png" width="30"/> 10.15.x 	| :white_check_mark: 	|
-| <img src="/.assets/docs/logos/big_sur.png" width="30"/> 11.x 	| :white_check_mark: 	|
-| <img src="/.assets/docs/logos/monterey.png" width="30"/> 12.x 	| :white_check_mark: 	|
-| <img src="/.assets/docs/logos/ventura.png" width="30"/> 13.x 	| :white_check_mark: 	|
+| macOS High Sierra 10.13.x 	| :heavy_exclamation_mark: No iGPU Support	|
+| macOS Mojave 10.14.x 	| :heavy_exclamation_mark: No iGPU Support 	|
+| macOS Catalina 10.15.x 	| :white_check_mark: 	|
+| macOS Big Sur 11.x 	| :white_check_mark: 	|
+| macOS Monterey 12.x 	| :white_check_mark: 	|
+| macOS Ventura 13.x 	| :white_check_mark: 	|
+| macOS Sonoma 14.x 	| :white_check_mark: 	|
 
 
 ### Working/Not working:
