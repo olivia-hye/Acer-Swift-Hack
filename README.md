@@ -10,7 +10,6 @@ Version](https://img.shields.io/badge/OpenCore-0.9.6-cyan?style=default&logo=osa
 Sonoma](https://img.shields.io/badge/macOS-14.2.1%20(23C71)-white.svg?logo=apple)](https://www.apple.com/macos/sonoma/)
 
 
-![About this Mac](.assets/docs/about_this_mac.png)
 
 ## Specs
 
@@ -88,6 +87,7 @@ Sonoma](https://img.shields.io/badge/macOS-14.2.1%20(23C71)-white.svg?logo=apple
 <summary>Misc</summary>
   
 - [ ] Sleep/Wake
+- [ ] Fingerprint
 - [x] SATA/NVMe PCIe Gen3x4 on M.2 slot
 - [x] Sensors CPU, iGPU, Battery, NVMe, Fans
 - [x] Native ACPI Battery 8-bit support
