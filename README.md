@@ -2,7 +2,7 @@
 
 ## Made for archive and educational purposes
 
-[![BIOS](https://img.shields.io/badge/BIOS-1.22-important.svg)]([https://www.dell.com/support/home/en-us/product-support/product/inspiron-13-5370-laptop/drivers](https://www.acer.com/us-en/support/product-support/SFX14-41G/downloads))
+[![BIOS](https://img.shields.io/badge/BIOS-1.07-important.svg)]([https://www.dell.com/support/home/en-us/product-support/product/inspiron-13-5370-laptop/drivers](https://www.acer.com/us-en/support/product-support/SFX14-41G/downloads))
 [![OpenCore 
 Version](https://img.shields.io/badge/OpenCore-0.9.6-cyan?style=default&logo=osano&logoColor=0298e1&color=3f4451
 )](https://github.com/acidanthera/OpenCorePkg/releases/latest)
