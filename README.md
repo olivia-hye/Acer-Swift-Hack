@@ -1,6 +1,7 @@
 # OpenCore 0.9.7 - Acer Swift X - Ryzen 7 5800U
 
 ## Made for archive and educational purposes
+## Don't forget to input PlatformInfo!
 
 [![BIOS](https://img.shields.io/badge/BIOS-1.07-important.svg)]([https://www.dell.com/support/home/en-us/product-support/product/inspiron-13-5370-laptop/drivers](https://www.acer.com/us-en/support/product-support/SFX14-41G/downloads))
 [![OpenCore 
